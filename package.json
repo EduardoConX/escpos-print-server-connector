@@ -1,0 +1,19 @@
+{
+  "name": "escpos-print-server-connector",
+  "version": "0.1.0",
+  "description": "Typescript connector for the escpos-print-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoConX/escpos-print-server-connector.git"
+  },
+  "author": "EduardoConX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoConX/escpos-print-server-connector/issues"
+  },
+  "homepage": "https://github.com/EduardoConX/escpos-print-server-connector#readme"
+}
